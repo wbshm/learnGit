@@ -1,6 +1,4 @@
 hello git;
 what is the time?
 
-
-卧槽。。。怎么会这样~
-真的是。
+i need to change utf-8
